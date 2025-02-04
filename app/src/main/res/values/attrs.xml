@@ -1,0 +1,17 @@
+<resources>
+
+    <declare-styleable name="GradientCardView">
+        <attr name="startColor" format="color" />
+        <attr name="endColor" format="color" />
+        <attr name="strokeColor" format="color" />
+        <attr name="solidColor" format="color" />
+        <attr name="strokeWidth" format="dimension" />
+        <attr name="cornerRadius" format="dimension" />
+        <attr name="gradientOrientation">
+            <enum name="vertical" value="0"/>
+            <enum name="horizontal" value="1"/>
+        </attr>
+    </declare-styleable>
+
+
+</resources>

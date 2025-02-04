@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="title_red">#EC221F</color>
+    <color name="title_yellow">#FFCC00</color>
+    <color name="tab_active">#70FF2D55</color>
+    <color name="tab_inactive">#7A11BDED</color>
+    <color name="red_gradient_start">#80FF3A3A</color>
+    <color name="blue_green_gradient_start">#8030B0C7</color>
+    <color name="purple_gradient_start">#8B71FD</color>
+    <color name="blue_gradient_start">#80719EFD</color>
+    <color name="green_gradient_start">#6670C88D</color>
+    <color name="yellow_gradient_start">#66FFD700</color>
+    <color name="stroke_red">#FF0000</color>
+    <color name="stroke_blue">#719EFD</color>
+    <color name="stroke_green">#70C88D</color>
+    <color name="stroke_blue_green">#30B0C7</color>
+    <color name="stroke_purple">#1E00FF</color>
+    <color name="stroke_yellow">#FFD700</color>
+    <color name="divider">#45FF3B30</color>
+    <color name="divider_purple">#E8DEF8</color>
+    <color name="divider2">#38F17878</color>
+    <color name="text_grey_1">#C4808A8D</color>
+</resources>
